@@ -1,70 +1,120 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# ✈️ Air Routes – Flight Booking System
 
-## Available Scripts
+A web-based Flight Booking System developed using React. The application provides a user-friendly interface for exploring flights and managing the flight booking process.
 
-In the project directory, you can run:
+## 📌 About the Project
 
-### `npm start`
+Air Routes is a flight booking web application designed to simplify the flight search and booking experience. Users can explore available flights, enter passenger information, and proceed through the booking workflow using an intuitive interface.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The project was developed to demonstrate frontend development skills, React component architecture, and interactive user interface design.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🚀 Features
 
-### `npm test`
+- **Flight Search:** Search for flights based on travel details.
+- **User Authentication UI:** Login and registration interface.
+- **Flight Listings:** Display available flight options.
+- **Seat Selection:** Interface for selecting Economy or Business seats.
+- **Passenger Details:** Form to enter passenger information.
+- **Booking Confirmation:** Confirmation screen after completing the booking workflow.
+- **Responsive UI:** User-friendly interface for different screen sizes.
+- **Navigation:** Easy navigation between application sections.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+*Note: Keep only the features that are currently implemented and working in your application.*
 
-### `npm run build`
+## 🛠️ Technologies Used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+| Technology | Purpose |
+|---|---|
+| React.js | Frontend development |
+| JavaScript | Application logic |
+| HTML5 | Page structure |
+| CSS3 | Styling and layout |
+| npm | Development environment |
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📸 Application Screenshots
 
-### `npm run eject`
+### 1. Home Page
+![Home Page](screenshots/home.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 2. Flight Search Results
+![Flight Search](screenshots/flight-search.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 3. Login / Signup
+![Login and Signup](screenshots/login.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### 4. Seat Selection
+![Seat Selection](screenshots/seat-selection.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### 5. Passenger Details
+![Passenger Details](screenshots/passenger-details.png)
 
-## Learn More
+### 6. Booking Confirmation
+![Booking Confirmation](screenshots/booking-confirmation.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## ⚙️ Installation and Setup
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Follow these steps to run the project locally.
 
-### Code Splitting
+### Prerequisites
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- npm
+- Git
 
-### Analyzing the Bundle Size
+### 1. Clone the Repository
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```bash
+git clone https://github.com/AayushPAdwal/Flight_Booking.git
+```
 
-### Making a Progressive Web App
+### 2. Navigate to the Project Directory
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```bash
+cd air_routes
+```
 
-### Advanced Configuration
+### 3. Install Dependencies
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+```bash
+npm install
+```
 
-### Deployment
+### 4. Start the Development Server
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+```bash
+npm start
+```
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🔮 Future Enhancements
+
+- Integration with real-time flight APIs.
+- Secure user authentication.
+- Backend integration for flight and booking management.
+- Database integration for storing passenger and booking information.
+- Online payment gateway integration.
+- Email booking confirmations.
+- Booking history and cancellation functionality.
+
+## 🎯 Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+- Building interactive web applications using React.
+- Creating reusable UI components.
+- Managing application state and user interactions.
+- Designing responsive layouts using CSS.
+- Implementing navigation and multi-step user workflows.
+- Organizing a frontend project structure.
+
+## 👨‍💻 Author
+
+**Aayush Padwal**
+
+- GitHub: [AayushPAdwal](https://github.com/AayushPAdwal)
+- LinkedIn: [Aayush Padwal](https://www.linkedin.com/in/aayush-padwal/)
+
+## 📄 License
+
+This project is developed for educational and portfolio purposes.
