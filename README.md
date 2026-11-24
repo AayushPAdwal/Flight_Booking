@@ -36,16 +36,16 @@ The project was developed to demonstrate frontend development skills, React comp
 ## 📸 Application Screenshots
 
 ### 1. Home Page
-![Home Page](SCREENSHOTS/Screenshot 2026-01-17 084543.png)
+![Home Page](<SCREENSHOTS/Screenshot 2026-01-17 084543.png>)
 
 ### 2. Flight Search Results
-![Flight Search](sSCREENSHOTS/Screenshot 2026-01-17 084640.png)
+![Flight Search](<SCREENSHOTS/Screenshot 2026-01-17 084640.png>)
 
 ### 3. Seat Selection
-![Seat Selection](SCREENSHOTS/Screenshot 2026-01-17 084652.png)
+![Seat Selection](<SCREENSHOTS/Screenshot 2026-01-17 084652.png>)
 
 ### 4. Payment Gateway
-![Booking Confirmation](SCREENSHOTS/Screenshot 2026-01-17 084725.png)                            )
+![Booking Confirmation](<SCREENSHOTS/Screenshot 2026-01-17 084725.png>)                            )
 
 ## ⚙️ Installation and Setup
 
